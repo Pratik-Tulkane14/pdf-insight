@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Custom styles for dark mode */
+body {
+  @apply bg-white text-black dark:bg-[#09090B] dark:text-[#FAFAFA];
+}
